@@ -1,0 +1,13 @@
+style type="text/css"
+div.dice {
+  float: left;
+  width: 32px;
+  background-color: blue;
+  border-color: red;
+  padding 10px;
+  font-size: 24px;
+  margin: 5px;
+}
+body {
+  background-image: url(../images/gif.gif);
+}
