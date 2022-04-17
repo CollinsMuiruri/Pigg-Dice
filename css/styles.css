@@ -16,6 +16,7 @@ body {
     height: 100vh;
     color: #333;
     background-color: #2d3439;
+    /* background-image: url(../images/gif.gif); */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -164,4 +165,8 @@ main {
 .player--winner .name {
     font-weight: 700;
     color: #c7365f;
+}
+
+.hidden {
+    display: none;
 }
